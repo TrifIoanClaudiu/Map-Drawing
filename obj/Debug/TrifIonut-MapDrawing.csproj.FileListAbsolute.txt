@@ -1,0 +1,8 @@
+C:\Ionut\Career + College\C#\TrifIonut-MapDrawing\bin\Debug\TrifIonut-MapDrawing.exe.config
+C:\Ionut\Career + College\C#\TrifIonut-MapDrawing\bin\Debug\TrifIonut-MapDrawing.exe
+C:\Ionut\Career + College\C#\TrifIonut-MapDrawing\bin\Debug\TrifIonut-MapDrawing.pdb
+C:\Ionut\Career + College\C#\TrifIonut-MapDrawing\obj\Debug\TrifIonut-MapDrawing.csproj.AssemblyReference.cache
+C:\Ionut\Career + College\C#\TrifIonut-MapDrawing\obj\Debug\TrifIonut-MapDrawing.csproj.SuggestedBindingRedirects.cache
+C:\Ionut\Career + College\C#\TrifIonut-MapDrawing\obj\Debug\TrifIonut-MapDrawing.csproj.CoreCompileInputs.cache
+C:\Ionut\Career + College\C#\TrifIonut-MapDrawing\obj\Debug\TrifIonut-MapDrawing.exe
+C:\Ionut\Career + College\C#\TrifIonut-MapDrawing\obj\Debug\TrifIonut-MapDrawing.pdb
